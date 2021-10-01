@@ -7,7 +7,7 @@ const TestPage = () => {
       <div className={css.container}>
         <div className={`${css.box1} ${css.box}`}>
           <h1>X-plore Changing to Xplore</h1>
-          <p style={{ color: "yellow" }}>Changing again</p>
+          <p style={{ color: "yellow" }}>Changing again New test changing</p>
         </div>
         <div className={`${css.box2} ${css.box}`}>
           <h1>Make a change</h1>
